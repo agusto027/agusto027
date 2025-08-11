@@ -29,6 +29,32 @@
 [![](https://visitcount.itsvg.in/api?id=agusto027&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- You can personalize your contact section as needed. -->
+<h2 align="center">💬 Let's Connect!</h2>
+<p align="center">
+  <a href="mailto:agusto027@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <!-- Add Discord, Telegram, or other links if you prefer -->
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+
+<!-- Footer with a wave SVG for symmetry and a final touch. -->
+<p align="center">
+  <svg viewBox="0 0 1200 100" width="100%" height="60">
+    <defs>
+      <linearGradient id="footer-gradient" gradientTransform="rotate(90)">
+        <stop offset="0%" stop-color="#0ea5e9" />
+        <stop offset="100%" stop-color="#38bdf8" />
+      </linearGradient>
+    </defs>
+    <path d="M0,50 Q300,100 600,50 Q900,0 1200,50 V100 H0 Z" fill="url(#footer-gradient)">
+      <animate attributeName="d" dur="6s" repeatCount="indefinite"
+        values="M0,50 Q300,100 600,50 Q900,0 1200,50 V100 H0 Z;
+                M0,60 Q300,110 600,60 Q900,10 1200,60 V100 H0 Z;
+                M0,50 Q300,100 600,50 Q900,0 1200,50 V100 H0 Z"/>
+    </path>
+  </svg>
+</p>
 
 <!--
 **agusto027/agusto027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
