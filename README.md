@@ -36,6 +36,8 @@
   <!-- Add Discord, Telegram, or other links if you prefer -->
 </p>
 
+![Profile views](https://count.getloli.com/get/@agusto027?theme=rule34)
+
 <!-- ===================== FOOTER ===================== -->
 
 <!-- Footer with a wave SVG for symmetry and a final touch. -->
