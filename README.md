@@ -36,7 +36,10 @@
   <!-- Add Discord, Telegram, or other links if you prefer -->
 </p>
 
-![Profile views](https://count.getloli.com/get/@agusto027?theme=rule34)
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=agusto027&label=Profile%20views&countColor=%23263759)
+
+
 
 <!-- ===================== FOOTER ===================== -->
 
