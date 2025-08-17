@@ -37,7 +37,7 @@
 </p>
 
 <p align="right">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/agusto027/profile-views&label=Profile%20Views&query=value&color=blue&style=flat" alt="Profile views" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=agusto027&label=Profile%20views&countColor=%23263759" alt="Profile views" />
 </p>
 
 
