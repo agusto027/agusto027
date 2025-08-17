@@ -36,8 +36,11 @@
   <!-- Add Discord, Telegram, or other links if you prefer -->
 </p>
 
+<p align="right">
+  <img src="https://api.visitorbadge.io/api/visitors?path=agusto027&label=Profile%20views&countColor=%23263759" alt="Profile views" />
+</p>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=agusto027&label=Profile%20views&countColor=%23263759)
+
 
 
 
