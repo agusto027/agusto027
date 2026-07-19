@@ -1,5 +1,5 @@
 <h1>About Me</h1>
-👋 Hi, I'm Anupam Dwivedi<br>I’m a Computer Science student at IET Lucknow (2023–27) <br>A passionate about AI/ML, MERN stack, and blockchain development.<br>Always eager to collaborate on innovative open-source projects <br>and connect with fellow tech enthusiasts!
+👋 Hi, I'm Anupam Dwivedi<br>I’m a Computer Science student at IET Lucknow (2023–27) <br>A passionate about AI/ML, MERN stack.<br>Always eager to collaborate on innovative open-source projects <br>and connect with fellow tech enthusiasts!
 
 
 ## 🌐 Socials:
