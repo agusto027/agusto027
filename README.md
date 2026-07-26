@@ -1,10 +1,13 @@
 <div align="center">
-<h1>About Me</h1>
-👋 Hi, I'm Anupam Dwivedi<br>I’m a Computer Science student at IET Lucknow (2023–27) <br>A passionate about AI/ML, MERN stack.<br>Always eager to collaborate on innovative open-source projects <br>and connect with fellow tech enthusiasts!
 
-<div align="center">
+  <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%2B+Backend+Engineer;Full-Stack+Developer;GenAI+%26+RAG+Specialist;Problem+Solver+%7C+Innovator)](https://git.io/typing-svg)
+  
+<h1>About Me</h1>
+👋 Hi, I'm Anupam Dwivedi. A Backend Engineer and Generative AI & Agentic AI Developer, currently pursuing B.Tech in Computer Science at IET Lucknow (2023–2027). I enjoy building scalable backend systems, AI-powered applications, and solving real-world problems with modern technologies. Always open to collaborating on innovative projects and connecting with fellow developers.
+
+
 
   
 ## 🌐 Socials:
