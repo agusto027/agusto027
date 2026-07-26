@@ -64,12 +64,11 @@
 
 ## 🌐 Portfolio
 
-<p align="center">
-  <a href="[https://your-portfolio-link.com](https://anupamdwivedi.vercel.app/)" target="_blank">
-    <img src="[https://img.shields.io/badge/🌍%20Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white](https://anupamdwivedi.vercel.app/)" alt="Portfolio"/>
+<h3 align="center">
+  <a href="https://anupamdwivedi.vercel.app/" target="_blank">
+    🚀 Visit My Portfolio
   </a>
-</p>
-
+</h3>
 <p align="center">
   Explore my projects, technical blogs, and professional journey.
 </p>
