@@ -4,7 +4,7 @@
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%2B+Backend+Engineer;Full-Stack+Developer;GenAI+%26+RAG+Specialist;Problem+Solver+%7C+Innovator)](https://git.io/typing-svg)
 
-  📍 **Lucknow, India** | 💻 **DevOps Aspirant** | 🎯 **GATE 2027** | 🚀 **Building Intelligent Systems**
+  📍 **Lucknow, India** |  🚀 **Building Intelligent Systems**
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anupam-dwivedi)
   [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
