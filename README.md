@@ -62,6 +62,17 @@
 
 ---
 
+## 🌐 Portfolio
+
+<p align="center">
+  <a href="[https://your-portfolio-link.com](https://anupamdwivedi.vercel.app/)" target="_blank">
+    <img src="https://img.shields.io/badge/🌍%20Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+<p align="center">
+  Explore my projects, technical blogs, and professional journey.
+</p>
 
 <!-- Snake Game Repo View -->
 
