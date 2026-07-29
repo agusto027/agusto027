@@ -1,5 +1,5 @@
 <div align="center">
-
+ 👋 Hi, I'm Anupam Dwivedi.
   <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%2B+Backend+Engineer;Full-Stack+Developer;GenAI+%26+RAG+Specialist;Problem+Solver+%7C+Innovator)](https://git.io/typing-svg)
