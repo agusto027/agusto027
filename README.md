@@ -1,5 +1,14 @@
 <div align="center">
- 👋 Hi, I'm Anupam Dwivedi.
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm <span style="color:#4F46E5;">Anupam Dwivedi</span>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=AI+%26+ML+Enthusiast;Full+Stack+Developer;MERN+Stack+Developer;Building+AI-Powered+Applications;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=agusto027&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+</div>
   <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%2B+Backend+Engineer;Full-Stack+Developer;GenAI+%26+RAG+Specialist;Problem+Solver+%7C+Innovator)](https://git.io/typing-svg)
